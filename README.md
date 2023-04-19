@@ -88,6 +88,17 @@ Tamanho
 
 ```
 
+<h3>Produto ↧<h3>
+
+```
+Id (Chave Prímaria)
+Nome
+Descrição
+Data de fabricação
+
+```
+
+
 
 <h2>🚀Frameworks utilizados no projeto:</h2><br>
 
