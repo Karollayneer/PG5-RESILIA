@@ -88,7 +88,7 @@ Tamanho
 
 ```
 
-<h3>Produto ↧<h3>
+<h3>Produto ↧</h3>
 
 ```
 Id (Chave Prímaria)
