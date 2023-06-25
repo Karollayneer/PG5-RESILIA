@@ -143,7 +143,7 @@ Data de fabricação
                <br> Pedro Nicacio 😊
                <br>  Suzana Barbosa 😊
                <br> Thiago Oliveira 😊   
-               <br> Thiago Oliveira 😊 
+              
              
 
 
